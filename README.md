@@ -3,7 +3,7 @@ This repository contains an intelligent chatbot developed using Python. The chat
 Chatbot Project
 This repository contains a chatbot project implemented using Python and Flask. The chatbot is built using AIML (Artificial Intelligence Markup Language) and incorporates various natural language processing (NLP) techniques.
 
-*Features*
+# Features
 User authentication and signup
 Chatbot conversation and response generation
 Sentiment analysis of user input
